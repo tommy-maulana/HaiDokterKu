@@ -9,8 +9,6 @@ HaiDokterKu adalah platform kesehatan digital untuk berkonsultansi dan membuat j
 
 
 <p align="center">
-	<img src="https://i.imgur.com/JHcvTXl.png" alt="Image" height="550"/>
+	<img src="https://i.imgur.com/aKQRbLn.png" alt="Image" height="550"/>
 
-## Inspiration
-- <a href="https://dribbble.com/shots/15332641-Medical-Mobile-App">Imran Hossen</a>
 
